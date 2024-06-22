@@ -1,0 +1,168 @@
+[
+    {
+        "id": "asdasdf34asda43242asd",
+        "recipeName": "Mercimek Çorbası",
+        "category": "Çorba",
+        "ingredients": [
+            "1 su bardağı kırmızı mercimek",
+            "1 adet soğan",
+            "1 adet havuç",
+            "1 adet patates",
+            "2 yemek kaşığı sıvı yağ",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı kırmızı biber",
+            "6 su bardağı su",
+            "1 limonun suyu"
+        ],
+        "instructions": [
+            "Mercimeği yıkayın ve süzün.",
+            "Soğanı doğrayın, havuç ve patatesi küçük küpler halinde kesin.",
+            "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
+            "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
+            "Mercimeği ekleyin, suyu ekleyin ve kaynamaya bırakın.",
+            "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, mercimekler iyice yumuşayana kadar pişirin.",
+            "Çorbayı blenderdan geçirin, tuz ve baharatları ekleyin.",
+            "Limon suyu ile servis yapın."
+        ],
+        "recipeTime": 30,
+        "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
+        "image": "/mercimek.png"
+    },
+    {
+        "id": "asdasda43242dsfgdfhg",
+        "recipeName": "Spagetti Bolognese",
+        "category": "Ana Yemek",
+        "ingredients": [
+            "400 gram spagetti",
+            "300 gram kıyma",
+            "1 adet soğan",
+            "2 diş sarımsak",
+            "1 kutu (400 gram) ezilmiş domates",
+            "2 yemek kaşığı domates salçası",
+            "1 tatlı kaşığı kurutulmuş kekik",
+            "1 tatlı kaşığı kurutulmuş fesleğen",
+            "Tuz ve karabiber, damak zevkine göre",
+            "Rendelenmiş parmesan peyniri garnitür için"
+        ],
+        "instructions": [
+            "Spagettiyi paket üzerindeki talimatlara göre haşlayın.",
+            "Bir tavada ince doğranmış soğanı ve ezilmiş sarımsağı yumuşayana kadar soteleyin.",
+            "Kıymayı ekleyin ve kahverengileşene kadar pişirin.",
+            "Ezilmiş domates, domates salçası, kekik, fesleğen, tuz ve karabiberi ekleyin.",
+            "Sosu 20-30 dakika kadar kaynatın, kıvam alana kadar pişirin.",
+            "Haşlanmış spagetti ile servis yapın, üzerine rendelenmiş parmesan peyniri serpin.",
+            "Spagetti Bolognese'nin tadını çıkarın!"
+        ],
+        "recipeTime": 45,
+        "servingSuggestion": "Spagetti Bolognese'yi sarımsaklı ekmek veya yeşillik salata ile servis edebilirsiniz.",
+        "image": "/spagetti.jpg"
+    },
+    {
+        "recipeName": "Kurabiyeler",
+        "category": "Atıştırma",
+        "recipeTime": "25",
+        "servingSuggestion": "tabağa koy",
+        "ingredients": [
+            "hamur",
+            "damla çikolata",
+            "süt"
+        ],
+        "instructions": [
+            "hamuru yoğurun",
+            "çikolataları ekleyin",
+            "fırına atın"
+        ],
+        "image": "/kurabiye.webp",
+        "id": "33c96ce4-9bc4-41ab-b8c2-7bd132087787"
+    },
+    {
+        "id": "1234asda5678qwewdfd",
+        "recipeName": "Zeytinyağlı Yaprak Sarma",
+        "category": "Zeytinyağlılar",
+        "ingredients": [
+            "500 gram asma yaprağı",
+            "2 su bardağı pirinç",
+            "2 adet soğan",
+            "1 çay bardağı zeytinyağı",
+            "1 yemek kaşığı dolmalık fıstık",
+            "1 yemek kaşığı kuş üzümü",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı nane",
+            "1 tatlı kaşığı kuru dereotu",
+            "1 adet limon",
+            "3 su bardağı su"
+        ],
+        "instructions": [
+            "Pirinçleri yıkayın ve süzün.",
+            "Soğanları doğrayın ve zeytinyağında kavurun.",
+            "Pirinçleri, fıstıkları ve baharatları ekleyip kavurun.",
+            "Yaprakları sıcak suyla yumuşatın.",
+            "Yaprakların içine harçtan koyarak sarın ve tencereye dizin.",
+            "Üzerine limon dilimleri koyun ve suyu ekleyin.",
+            "Kısık ateşte pişirin."
+        ],
+        "recipeTime": 60,
+        "servingSuggestion": "Soğuk servis yapın.",
+        "image": "/zeytinyagli_sarma.webp"
+    },
+    {
+        "id": "5678asda1234qwewdfd",
+        "recipeName": "İmam Bayıldı",
+        "category": "Ana Yemek",
+        "ingredients": [
+            "4 adet patlıcan",
+            "2 adet soğan",
+            "2 adet domates",
+            "4 diş sarımsak",
+            "1 çay bardağı zeytinyağı",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı şeker",
+            "Yarım su bardağı su",
+            "Yarım demet maydanoz"
+        ],
+        "instructions": [
+            "Patlıcanları alacalı soyun ve ortalarını açın.",
+            "Soğanları, domatesleri ve sarımsakları doğrayın.",
+            "Zeytinyağında soğanları kavurun, domatesleri ve sarımsakları ekleyin.",
+            "Tuz, karabiber ve şekeri ekleyin.",
+            "Patlıcanların içine harcı doldurun ve tencereye dizin.",
+            "Üzerine su ekleyin ve kısık ateşte pişirin."
+        ],
+        "recipeTime": 45,
+        "servingSuggestion": "Üzerine maydanoz serperek servis yapın.",
+        "image": "/imam.webp"
+    },
+    {
+        "id": "abcd1234efgh5678",
+        "recipeName": "Kısır",
+        "category": "Salata",
+        "ingredients": [
+            "2 su bardağı ince bulgur",
+            "2 su bardağı sıcak su",
+            "1 çay bardağı zeytinyağı",
+            "1 adet limon",
+            "2 yemek kaşığı nar ekşisi",
+            "1 adet salatalık",
+            "2 adet domates",
+            "4 dal taze soğan",
+            "Yarım demet maydanoz",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı kuru nane",
+            "1 tatlı kaşığı pul biber"
+        ],
+        "instructions": [
+            "Bulguru sıcak su ile ıslatın ve kapağını kapatın.",
+            "Salatalık, domates, taze soğan ve maydanozu doğrayın.",
+            "Zeytinyağı, limon suyu ve nar ekşisini karıştırın.",
+            "Şişen bulgura doğranmış malzemeleri ve sosu ekleyin.",
+            "Tuz, karabiber, kuru nane ve pul biberi ekleyip karıştırın."
+        ],
+        "recipeTime": 20,
+        "servingSuggestion": "Taze yeşilliklerle servis yapın.",
+        "image": "/kisir.jpg"
+    }
+]
